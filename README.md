@@ -1,5 +1,8 @@
 
 # Banking_case
 =======
-# banking_case
-End-to-end banking analytics project using Python, PostgreSQL, machine learning, and dashboarding to analyze customer profitability, churn risk, 
+# Banking Customer Analytics & Risk Intelligence
+Overview
+## Dashboard Preview
+![Banking Dashboard](images/dashboard.png)
+
